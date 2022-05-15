@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Poppins:wght@100;300&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+
+/* Section I - Engage 2022 */
+
+#engage{
+    background-color: #22746b;
+}
+
+#engage .container{
+   padding: 3% 0 0;
+}
+
+#engage img{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    border-style: none;
+    outline: 1px solid #22746b !important;
+}
+
+.engage_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+#eligibility .container{
+    padding: 10% 0%;
+}
+
+#challenges {
+    background-color: #FAFAF4;
+}
+
+#challenges .container{
+    padding: 10% 0%;
+}
+
+#schedule{
+    background-color: grey;
+}
